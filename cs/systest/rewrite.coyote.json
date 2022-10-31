@@ -1,0 +1,9 @@
+{
+    "AssembliesPath": "./bin/AnyCPU/Debug/net6.0",
+    "Assemblies": [
+      "FASTER.core.dll",
+      "FASTER.devices.AzureStorageDevice.dll",
+      "FASTER.systest.dll"
+    ]
+  }
+  
